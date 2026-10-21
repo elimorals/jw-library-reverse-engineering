@@ -1,0 +1,17 @@
+# Material propietario de Watch Tower — NO redistribuir
+*.apk
+res-decoded/
+assets-extract/
+so-extract/
+so-extract64/
+evidence/
+*.db
+*.bin
+*.cap
+*.mitm
+*.realm*
+*.jwpub
+*.xml
+# permitir solo nuestros docs, análisis y scripts
+!.gitignore
+.DS_Store
